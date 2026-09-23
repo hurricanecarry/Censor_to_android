@@ -3,9 +3,9 @@
 ## 1. 本仓库包含什么
 
 - **本人（hurricanecarry）独立编写**的 Unity 编辑器脚本（`tools/editor/`）与 Python 取证脚本（`tools/python/`）。
-- **本人撰写**的复盘文档（`docs/`、`README.md`）与构建台账（`ledger/BUILD_LEDGER.tsv`，路径已脱敏）。
+- **本人撰写**的复盘文档（`操作手册.md`、`README.md`）与构建台账（`ledger/BUILD_LEDGER.tsv`，路径已脱敏）。
 
-## 2. 本仓库**不**包含什么
+## 2. 本仓库**不包含**什么
 
 - ❌ 任何游戏素材：纹理、音频、模型、骨骼动画图集、Lua、配置表、场景/预制体
 - ❌ 任何可运行产物：APK、AssetBundle（`*.bundle`）、`StreamingAssets` 内容、IL2CPP 转储、反编译源码
